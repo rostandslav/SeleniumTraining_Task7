@@ -1,0 +1,9 @@
+c:\users\техносила\documents\visual studio 2013\Projects\ClickAllItemsTestProject\ClickAllItemsTestProject\bin\Debug\ClickAllItemsTestProject.dll
+c:\users\техносила\documents\visual studio 2013\Projects\ClickAllItemsTestProject\ClickAllItemsTestProject\bin\Debug\ClickAllItemsTestProject.pdb
+c:\users\техносила\documents\visual studio 2013\Projects\ClickAllItemsTestProject\ClickAllItemsTestProject\bin\Debug\WebDriver.dll
+c:\users\техносила\documents\visual studio 2013\Projects\ClickAllItemsTestProject\ClickAllItemsTestProject\bin\Debug\WebDriver.Support.dll
+c:\users\техносила\documents\visual studio 2013\Projects\ClickAllItemsTestProject\ClickAllItemsTestProject\bin\Debug\WebDriver.xml
+c:\users\техносила\documents\visual studio 2013\Projects\ClickAllItemsTestProject\ClickAllItemsTestProject\bin\Debug\WebDriver.Support.xml
+c:\users\техносила\documents\visual studio 2013\Projects\ClickAllItemsTestProject\ClickAllItemsTestProject\obj\Debug\ClickAllItemsTestProject.csprojResolveAssemblyReference.cache
+c:\users\техносила\documents\visual studio 2013\Projects\ClickAllItemsTestProject\ClickAllItemsTestProject\obj\Debug\ClickAllItemsTestProject.dll
+c:\users\техносила\documents\visual studio 2013\Projects\ClickAllItemsTestProject\ClickAllItemsTestProject\obj\Debug\ClickAllItemsTestProject.pdb
